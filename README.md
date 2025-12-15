@@ -166,3 +166,57 @@ which is expected and perfectly valid for churn problems.
 
 ---
 
+## 📊 Power BI Dashboard
+
+An interactive **Power BI dashboard** was built to translate ML outputs into **business insights**.
+
+### Dashboard Features
+- Overall churn rate
+- Churned vs active customers
+- Risk-level segmentation (Low / High / Churned)
+- Recent activity trends
+- Orders & spending behavior
+
+### Files
+- `powerbi/customer_churn_prediction_dashboard.pbix`
+
+
+---
+
+## 📁 Project Structure
+
+├── data/
+
+│ └── E-commerence_customer.csv
+
+├── notebooks/
+
+│ └── data_cleaning_and_feature_engineering.ipynb
+
+│ └── model_training_and_evaluation.ipynb
+
+├── powerbi/
+
+│ └── customer_churn_prediction_dashboard.pbix
+
+├── README.md
+
+---
+
+## 🚀 Key Takeaway
+
+This project focuses on **realistic churn modeling**, not inflated accuracy.  
+It demonstrates:
+
+- Strong feature engineering
+- Proper ML evaluation
+- Business-oriented thinking
+- End-to-end analytics (ML + BI)
+
+---
+
+## 👩‍💻 Author
+
+**Noor Fatima**  
+Computer Science Student | Data Science & Machine Learning  
+
