@@ -31,7 +31,7 @@ The dataset consists of **51,290 e-commerce order records**, including:
 - Login Device  
 - Customer Location  
 
-### **Churn Definition (Important)**  
+### **Churn Definition**  
 Since no churn label existed:
 
 > **A customer is considered “churned” if they have not placed any order in the last 180 days from the reference date.**
@@ -55,7 +55,7 @@ This enabled reliable time-based feature engineering.
 
 ---
 
-# 🧠 Feature Engineering (Core Contribution)
+# 🧠 Feature Engineering
 
 The heart of this project is **behavior-driven features** that detect subtle churn patterns.
 
@@ -187,7 +187,7 @@ An interactive **Power BI dashboard** was built to translate ML outputs into **b
 
 ├── data/
 
-│ └── E-commerence_customer.csv
+│ └── E-commerence Dataset.csv
 
 ├── notebooks/
 
